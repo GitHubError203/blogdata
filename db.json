@@ -1,0 +1,33 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 1,
+            "authorDetails": {
+                "username": "bhaskar",
+                "first_name": "Bhaskar",
+                "last_name": "Uprety"
+            },
+            "category": "covid-19",
+            "title": "Covid lockdown: Seven enduring claims fact-checked",
+             "coverImage": "https://bhaskaruprety.pythonanywhere.com/media/images/_117663618_gettyimages-1231826815.jpg",
+            "datetime": "2021-03-26T18:06:33.785253Z",
+            "modified": "2021-03-26T18:06:33.785332Z"
+        },
+        {
+            "id": 2,
+            "authorDetails": {
+                "username": "bhaskar",
+                "first_name": "Bhaskar",
+                "last_name": "Uprety"
+            },
+            "category": "nature",
+            "title": "Bangladesh at 50: Why my ancestral home could be lost to climate change",
+             "coverImage": "https://bhaskaruprety.pythonanywhere.com/media/images/_117704960_image0.jpg",
+            "datetime": "2021-03-26T18:12:32.162301Z",
+            "modified": "2021-03-26T18:12:32.162377Z"
+        }
+          ]
+}
